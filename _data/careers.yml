@@ -1,18 +1,53 @@
 - name:
-    detail: Joint PhD at UdG-UBFC
+    detail: Assistant Professor
     i18n: phd
   desc:
-    detail: In November 2016, I graduated from a joint PhD from the Universitat de Girona and the Universite de Bourgogne France-Comte. My thesis was entitled "Computer-Aided Diagnosis for Prostate Cancer using Multi-Parametric Magnetic Resonance Imaging".
+    detail: Since Sept. 2014, I am head of computer science department at the Preparatory Year Deanship. Umm Al-Qura University. KSA.
     i18n: phd_des
   date:
-    detail: Jun. 2012 - Nov. 2016
+    detail: Sep. 2014 - Present
     i18n: phd_date
   job:
-    detail: PhD candidate
+    detail: Assistant Professor
     i18n: phd_job
   icon: fa-search
 
+
 - name:
+    detail: Assistant Professor
+    i18n: phd
+  desc:
+    detail: Since Sept. 2014, I am head of computer science department at the Preparatory Year Deanship. Umm Al-Qura University. KSA.
+    i18n: phd_des
+  date:
+    detail: Sep. 2012 - Aug. 2014
+    i18n: phd_date
+  job:
+    detail: Assistant Professor
+    i18n: phd_job
+  icon: fa-search
+
+
+
+
+- name:
+    detail: Assistant Professor
+    i18n: phd
+  desc:
+    detail: Since Sept. 2014, I am head of computer science department at the Preparatory Year Deanship. Umm Al-Qura University. KSA.
+    i18n: phd_des
+  date:
+    detail: Sep. 2012 - Aug. 2014
+    i18n: phd_date
+  job:
+    detail: Assistant Professor
+    i18n: phd_job
+  icon: fa-search
+
+
+
+- name:
+
     detail: Temporary assistant professor at UBFC
     i18n: phd
   desc:
@@ -53,17 +88,3 @@
     detail: Intern researcher
     i18n: bd_job
   icon: fa-search
-
-- name:
-    detail: Erasmus Mundus MSc in Vision and Robotics (Vibot) at HWU-UdG-UBFC
-    i18n: vibot
-  desc:
-    detail: In September 2011, I graduated from a Master in Vision and Robotics. My final thesis was entitled "Absolute Quantification in 1H MRSI of the Prostate at 3T".
-    i18n: vibot_des
-  date:
-    detail: Sep. 2009 - Sep. 2011
-    i18n: vibot_date
-  job:
-    detail: MSc student candidate
-    i18n: vibot_job
-  icon: fa-book
