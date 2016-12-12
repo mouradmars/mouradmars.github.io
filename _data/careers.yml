@@ -17,7 +17,7 @@
     detail: Assistant Professor
     i18n: phd
   desc:
-    detail: Since Sept. 2014, I am head of computer science department at the Preparatory Year Deanship. Umm Al-Qura University. KSA.
+    detail: Assistant Professor at Higher School of Computer Science and Mathematics of Monastir (ISIMM) - Tunisia.
     i18n: phd_des
   date:
     detail: Sep. 2012 - Aug. 2014
@@ -31,16 +31,16 @@
 
 
 - name:
-    detail: Assistant Professor
+    detail: Philosophy Diploma
     i18n: phd
   desc:
-    detail: Since Sept. 2014, I am head of computer science department at the Preparatory Year Deanship. Umm Al-Qura University. KSA.
+    detail: Ph.D, Computer Science and NLP - LIDILEM Labs - Grenoble Alpes University - France
     i18n: phd_des
   date:
-    detail: Sep. 2012 - Aug. 2014
+    detail: 2012
     i18n: phd_date
   job:
-    detail: Assistant Professor
+    detail: Ph.D
     i18n: phd_job
   icon: fa-search
 
