@@ -48,10 +48,10 @@
 
 - name:
 
-    detail: Temporary Assistant Professor at Faugier Higher School - Grenoble - France
+    detail: Temporary Assistant Professor
     i18n: phd
   desc:
-    detail: From March 2015 to March 2016, I was temporary assistant professor at the Universite de Bourgogne Franche-Comte. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
+    detail: From Sep. 2009 to August 2011, I served as Temporary Assistant Professor at Faugier Higher School - Grenoble - France. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
     i18n: phd_des
   date:
     detail: 2009 - 2011
