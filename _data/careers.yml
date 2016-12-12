@@ -51,7 +51,7 @@
     detail: Temporary Assistant Professor
     i18n: phd
   desc:
-    detail: From Sep. 2009 to August 2011, I served as Temporary Assistant Professor at Faugier Higher School - Grenoble - France. My teaching classes included MSc classes in image processing, pattern recognition, and software enginnering.
+    detail: From Sep. 2009 to August 2011, I served as Temporary Assistant Professor at Faugier Higher School - Grenoble - France. My teaching classes included MSc classes in Natural Language Processing.
     i18n: phd_des
   date:
     detail: 2009 - 2011
@@ -62,29 +62,61 @@
   icon: fa-search
 
 - name:
-    detail: MSc in Business Innovation and Technology Management (BITM) at UdG
-    i18n: bitm
+
+    detail: Temporary Assistant Professor
+    i18n: phd
   desc:
-    detail: In September 2014, I graduated from a Master in Business Innovation and Technology Management. My final thesis "Valorisation of Computerized Technology in the Health Care Sector".
-    i18n: bitm_des
+    detail: From Sep. 2007 to August 2009, I served as Temporary Assistant Professor at Grenoble Alpes University - Grenoble - France. My teaching classes included MSc classes in Natural Language Processing, and Database Management Systems.
+    i18n: phd_des
   date:
-    detail: Sep. 2012 - Sep. 2014
-    i18n: bitm_date
+    detail: 2009 - 2011
+    i18n: ater_date
   job:
-    detail: MSc student candidate
-    i18n: bitm_job
-  icon: fa-book
+    detail: Temporary Assistant Professor
+    i18n: ater_job
+  icon: fa-search
+
 
 - name:
-    detail: Barcelona Digital
-    i18n: bd
+
+    detail: Software Development Engineer
+    i18n: phd
   desc:
-    detail: From September 2011 to June 2012, I was researcher at Barcelona Digital focusing on object recognition and more precisely traffic sign detection.
-    i18n: bd_des
+    detail: During 1 year, I worked at Micro Application - France.
+    i18n: phd_des
   date:
-    detail: Sep. 2011 - Jun. 2012
-    i18n: bd_date
+    detail: 2007 - 2008
+    i18n: ater_date
   job:
-    detail: Intern researcher
-    i18n: bd_job
+    detail: Software Development Engineer
+    i18n: ater_job
   icon: fa-search
+  
+  
+- name:
+    detail: Web Development Engineer
+    i18n: bitm
+  desc:
+    detail: Engineer at Grenoble Alpes University - France.
+    i18n: bitm_des
+  date:
+    detail: 2006 - 2007
+    i18n: bitm_date
+  job:
+    detail: Web Development Engineer
+    i18n: bitm_job
+  icon: fa-search
+
+- name:
+    detail: Master Degree in CS / NLP
+    i18n: phd
+  desc:
+    detail: I obtained my Master degree diploma in Computer Science and Natural Language Processing from Grenoble Alpes University - France.
+    i18n: phd_des
+  date:
+    detail: 2006
+    i18n: phd_date
+  job:
+    detail: Master degree
+    i18n: phd_job
+  icon: fa-book
