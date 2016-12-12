@@ -17,7 +17,7 @@ author:
   linkedin_username: 'https://www.linkedin.com/in/mouradmars'
   github_username: 'mouradmars'
   scholar_username: 'https://scholar.google.com/citations?user=f57ZIvUAAAAJ&hl=en'
-  head_img: 'static/img/landing/pictures.jpg'
+  head_img: 'static/img/landing/picture.png'
   desc: 'I am a researcher focusing on natural language processing, and machine learning. I strive for open source and open data.'
 
 # sections
