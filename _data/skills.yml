@@ -1,25 +1,28 @@
+- name: Natural Language Processing
+  percentage: 95
+
+- name: C/C++
+  percentage: 80
+
 - name: Machine Learning
   percentage: 90
 
 - name: Python
   percentage: 95
 
-- name: C/C++
-  percentage: 80
-
-- name: Retinopathy
+- name: Artificial Intelligence
   percentage: 85
 
 - name: Git
   percentage: 98
 
-- name: Pattern Recognition
+- name: Data Mining
   percentage: 90
 
 - name: Linux/Unix
   percentage: 95
 
-- name: Data Mining
+- name: Data Science
   percentage: 90
 
 - name: Latex
