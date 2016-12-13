@@ -1,24 +1,24 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Guillaume Lemaitre"
-description: "Personal website of Guillaume Lemaitre"
-keywords: "glemaitre,guillaume,lemaitre,medical,imaging,prostate"
+title: "Mourad Mars"
+description: "Personal website of Mourad Mars"
+keywords: "Mourad, Mars, Natural Language Processing, Machine Learning, Artificial Intelligence"
 baseurl: "/"
-url: "http://glemaitre.github.io"
+url: "http://mouradmars.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Lemaitre'
-  first_name: 'Guillaume'
-  last_name: 'Lemaitre'
-  email: 'g.lemaitre58@gmail.com'
-  linkedin_username: 'https://www.linkedin.com/in/guillaume-lemaitre-b9404939'
-  github_username: 'glemaitre'
-  scholar_username: 'https://scholar.google.fr/citations?user=fmnnGf4AAAAJ&hl=en'
+  name: 'Mourad'
+  first_name: 'Mars'
+  last_name: 'Mourad'
+  email: 'mourad.mars@univ-grenoble-alpes.fr'
+  linkedin_username: 'https://www.linkedin.com/in/mouradmars'
+  github_username: 'mouradmars'
+  scholar_username: 'https://scholar.google.com/citations?user=f57ZIvUAAAAJ&hl=en'
   head_img: 'static/img/landing/picture.png'
-  desc: 'I am a researcher focusing on medical imaging, pattern recognition, and machine learning. I strive for open source and open data.'
+  desc: 'I am a researcher focusing on natural language processing, and machine learning. I strive for open source and open data.'
 
 # sections
 sections:
@@ -56,8 +56,8 @@ sections:
 languages:
   - locale: 'en'
     flag: 'static/img/flags/United-States.png'
-  # - locale: 'zh'
-  #   flag: 'static/img/flags/China.png'
+  - locale: 'fr'
+    flag: 'static/img/flags/France.png'
 
 # blog img path
 img_path: 'http://www.jack003.com/static/img/blog'
