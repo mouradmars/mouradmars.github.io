@@ -1,20 +1,17 @@
 - name: Blog
   href: '/blog/'
 
+- name: NLP
+  href: '/NLP/'
+
+- name: Machine Translation
+  href: '/MT/'
+
+- name: Machine Learning
+  href: '/ML/'
+
+- name: Sentiment Analysis
+  href: '/SA/'
+
 - name: Python
-  href: '/python/'
-
-- name: Linux
-  href: '/linux/'
-
-- name: HTML
-  href: '/html/'
-
-- name: Database
-  href: '/database/'
-
-- name: Mac
-  href: '/mac/'
-
-- name: Life
-  href: '/life/'
+  href: '/Python/'
