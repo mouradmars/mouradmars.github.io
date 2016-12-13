@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "From mysql to redis with python"
-desc: "MySQL to redis via Python"
-keywords: "mysql,redis,python"
+title:  "From twitter to Pos or Neg sentiment"
+desc: "Desc From twitter to Pos or Neg sentiment"
+keywords: "Tweet, , Python"
 date:   2016-05-04
-categories: [Python, Database]
-tags: [Python, MySQL, Redis]
+categories: [Python, Sentiment Analysis]
+tags: [Python, Tweet, Naive Classifier]
 icon: icon-redis
 ---
 
