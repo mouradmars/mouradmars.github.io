@@ -45,13 +45,25 @@ sections:
     name: 'Projects'
     tpl: 'projects.html'
     css: 'project'
-
+    
+  - id: 'blog'
+    i18n: 'nav.blog'
+    name: 'Blog'
+    tpl: 'blog.html'
+    css: 'testimonials navy-section'
+    
   - id: 'publications'
     i18n: 'nav.publications'
     name: 'Publications'
     tpl: 'publications.html'
     css: 'publications'
 
+  - id: 'links'
+    i18n: 'nav.link'
+    name: 'Links'
+    tpl: 'links.html'
+    css: 'contact'
+    
 # localization
 languages:
   - locale: 'en'
