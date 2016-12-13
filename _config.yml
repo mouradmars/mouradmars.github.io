@@ -34,7 +34,7 @@ sections:
     tpl: 'career.html'
     css: 'timeline'
 
- - id: 'skills'
+  - id: 'skills'
     i18n: 'nav.skills'
     name: 'Skills'
     tpl: 'skills.html'
