@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Mac
-permalink: /mac/
+title: Machine Translation
+permalink: /MT/
 ---
 
 <div class="row">
     <div class="col-lg-12 text-center">
         <div class="navy-line"></div>
-        <h1>Mac</h1>
+        <h1>Database</h1>
     </div>
 </div>
 
@@ -15,7 +15,7 @@ permalink: /mac/
     <div class="row">
 		<ul id="pag-itemContainer" style="list-style:none;">
     {% assign counter = 0 %}
-		{% for post in site.categories['Mac'] %}
+		{% for post in site.categories['Database'] %}
 		{% assign counter = counter | plus: 1 %}
 		<li>
         <div class="col-lg-8 col-lg-offset-2">
@@ -42,7 +42,7 @@ permalink: /mac/
                         <div class="col-md-6">
                             <div class="small text-right">
                                 <h5>Stats:</h5>
-                                <div> 
+                                <div>
                                 {% if site.changyan %}
                                     <i class="fa fa-comments-o"> </i> <span id = "url::{{post.url | prepend: site.url}}" class = "cy_cmt_count" ></span> comments
                                 {% endif %}
