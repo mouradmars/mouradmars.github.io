@@ -4,7 +4,7 @@ title:  "From twitter to Pos or Neg sentiment"
 desc: "Desc From twitter to Pos or Neg sentiment"
 keywords: "Tweet, , Python"
 date:   2016-05-04
-categories: [Python, Sentiment Analysis]
+categories: [Python, SA]
 tags: [Python, Tweet, Naive Classifier]
 icon: icon-redis
 ---
@@ -84,3 +84,5 @@ class dataProcessor(object):
 		print "Top 10 Most popular words:"
 		print top_ten.most_common(10), "\n"
 ```
+Hope this code will help you.
+You can download the code from my githubRepository.

@@ -4,7 +4,7 @@ title: Sentiment Analysis From Scratch with Python.
 date:   2016-12-13
 desc: "Description of the post"
 keywords: "Sentiment Analysis, tweets, Python, Machine Learning"
-categories: [SA]
+categories: [SA, ML]
 tags: [blog]
 icon: fa-bookmark-o
 ---
