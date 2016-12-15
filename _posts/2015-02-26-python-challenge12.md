@@ -5,8 +5,9 @@ date:   2015-02-26
 desc: "Python challenge"
 keywords: "Python,challenge"
 categories: [Python]
-tags: [Python,Challenge]
+tags: [Python]
 icon: fa-code
+icon: fa-linux
 ---
 
 Python challenge好像荒废很久了，今天把challenge 12补上。
