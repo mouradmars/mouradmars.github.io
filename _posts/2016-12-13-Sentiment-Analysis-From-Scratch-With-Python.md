@@ -5,7 +5,7 @@ date:   2016-12-13
 desc: "Description of the post"
 keywords: "Sentiment Analysis, tweets, Python, Machine Learning"
 categories: [SA, ML]
-tags: [blog]
+tags: [Sentiment Analysis, Machine Learning]
 icon: fa-bookmark-o
 ---
 
