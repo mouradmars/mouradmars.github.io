@@ -27,3 +27,9 @@
   url: ''
   img: 'static/img/landing/SpellChecker.jpg'
   desc: 'Toword a Robust Spell Checker for Arabic Lanaguage.'
+
+- name: 'Named Entities Extraction'
+  i18n: 'NELexicon'
+  url: ''
+  img: 'static/img/landing/MT.jpg'
+  desc: 'Statistical Machine Translation (SMT) system for Arabic Language.'
