@@ -127,6 +127,7 @@ else:
 
 要优于
 
+Test this code
 ``` python
 try:
 # Too broad!
@@ -136,8 +137,8 @@ except KeyError:
     return key_not_found(key)
 ```
 
-6. 使用startswith() and endswith()代替切片进行序列前缀或后缀的检查。比如：
-Yes: `if foo.startswith('bar')`:优于
+6. if it starts with: 
+Yes: `if foo.startswith('bar')`:
 No: `if foo[:3] == 'bar'`
 
 7. 使用isinstance()比较对象的类型。比如
