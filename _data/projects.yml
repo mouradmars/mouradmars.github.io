@@ -20,7 +20,7 @@
   i18n: 'retinopathy'
   url: ''
   img: 'static/img/landing/POSTagger.jpg'
-  desc: 'Repository associated with our medical imaging development related to retinopathy.'
+  desc: 'Repository associated with Par Of Speech Tagger for Arabic Language.'
 
 - name: 'Spell Checker'
   i18n: 'SpellChecker'
@@ -28,7 +28,7 @@
   img: 'static/img/landing/SpellChecker.jpg'
   desc: 'Toword a Robust Spell Checker for Arabic Lanaguage.'
 
-- name: 'Named Entities Extraction'
+- name: 'Machine Translation System'
   i18n: 'NELexicon'
   url: ''
   img: 'static/img/landing/MT.jpg'
