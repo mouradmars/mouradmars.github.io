@@ -52,11 +52,11 @@ sections:
     tpl: 'publications.html'
     css: 'publications'
     
-  - id: 'link'
+  - id: 'links'
     i18n: 'nav.link'
-    name: 'Link'
-    tpl: 'link.html'
-    css: 'link'
+    name: 'Links'
+    tpl: 'links.html'
+    css: 'contact'
 
 # localization
 languages:
