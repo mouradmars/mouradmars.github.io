@@ -62,7 +62,7 @@ sections:
     i18n: 'nav.blog'
     name: 'Blog'
     tpl: 'blog.html'
-    css: ''
+    css: 'testimonials navy-section'
     
 # localization
 languages:
