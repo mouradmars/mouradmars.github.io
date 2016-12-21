@@ -7,6 +7,7 @@ keywords: "Machine Translation, POS Tagging"
 categories: [MT]
 tags: [MT, ML]
 icon: icon-phone-gap
+comments: true
 ---
 
 This is a Post on Machine Translation
