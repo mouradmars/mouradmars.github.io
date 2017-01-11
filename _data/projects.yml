@@ -4,12 +4,18 @@
   img: 'static/img/landing/SA.jpg'
   desc: 'Sentiment Analysis and twitter - Comparing Different Machine Learning Algorithms and a variety of Methods.'
   
-- name: 'Named Entities Extraction'
+- name: 'Named Entities Recognition'
   i18n: 'NELexicon'
   url: '/mouradmars/Named_Entities_Project'
   img: 'static/img/landing/NEL.jpg'
   desc: 'Repository associated with our Named Entities Lexicon developed using Alignement and Machine Translation (SMT) techniques.'
 
+- name: 'Machine Translation System'
+  i18n: 'NELexicon'
+  url: ''
+  img: 'static/img/landing/MT.jpg'
+  desc: 'Statistical Machine Translation (SMT) system for Arabic Language.'
+  
 - name: 'Tempo-ArabicWordnet'
   i18n: 'Tempo-ArabicWordnet'
   url: 'mouradmars/Tempo-ArabicWordnet'
@@ -34,8 +40,3 @@
   img: 'static/img/landing/POSTagger.jpg'
   desc: 'Text/Tweets classification for Arabic Language.'
   
-- name: 'Machine Translation System'
-  i18n: 'NELexicon'
-  url: ''
-  img: 'static/img/landing/MT.jpg'
-  desc: 'Statistical Machine Translation (SMT) system for Arabic Language.'
