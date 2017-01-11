@@ -27,3 +27,13 @@
 
 - name: Latex
   percentage: 95
+
+- name: Pattern Recognition
+  percentage: 90
+  
+- name: R Programming
+  percentage: 90
+  
+  - name: Database/SQL
+  percentage: 98
+  
