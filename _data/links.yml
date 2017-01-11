@@ -1,17 +1,17 @@
-- last_name: Celine
-  first_name:
-  desc: 'Painter.'
-  website: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+- last_name: L_Name
+  first_name: F_Name
+  desc: 'University Professor.'
+  website: 'http://mouradmars.github.io'
+  email: 'mail1@gmail.com'
 
-- last_name: Lucas
-  first_name: Schejtman
-  desc: 'Full Stack Developer.'
-  website: 'http://lucasschejtman.github.io'
-  email: 'lucas.schejtman@gmail.com'
+- last_name: L_Name
+  first_name: F_Name
+  desc: 'Research Scientist.'
+  website: 'http://mouradmars.github.io'
+  email: 'mail1@gmail.com'
 
-- last_name: Lucas
-  first_name: Schejtman
-  desc: 'Full Stack Developer.'
-  website: 'http://lucasschejtman.github.io'
-  email: 'lucas.schejtman@gmail.com'
+- last_name: L_Name
+  first_name: F_Name
+  desc: 'Data Scientist.'
+  website: 'http://mouradmars.github.io'
+  email: 'mail1@gmail.com'

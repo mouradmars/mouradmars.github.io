@@ -40,3 +40,9 @@
   img: 'static/img/landing/POSTagger.jpg'
   desc: 'Text/Tweets classification for Arabic Language.'
   
+- name: 'Various Machine Learning Algorithm Implementation'
+  i18n: 'ML_implementation'
+  url: ''
+  img: 'static/img/landing/POSTagger.jpg'
+  desc: 'Various machine learning algorithm implementation.'
+  
