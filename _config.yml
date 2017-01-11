@@ -58,6 +58,12 @@ sections:
     tpl: 'blog.html'
     css: 'testimonials navy-section'
     
+    - id: 'publications'
+    i18n: 'nav.publications'
+    name: 'Teaching'
+    tpl: 'Teaching.html'
+    css: 'publications'
+    
   - id: 'links'
     i18n: 'nav.link'
     name: 'Links'
