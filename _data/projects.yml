@@ -17,7 +17,7 @@
   desc: 'Repository associated with our Temporal Wordnet for Arabic Language.'
 
 - name: 'Arabic POS Tagger'
-  i18n: 'retinopathy'
+  i18n: 'POSTagger'
   url: ''
   img: 'static/img/landing/POSTagger.jpg'
   desc: 'Repository associated with Par Of Speech Tagger for Arabic Language.'
@@ -26,8 +26,14 @@
   i18n: 'SpellChecker'
   url: ''
   img: 'static/img/landing/SpellChecker.jpg'
-  desc: 'Toword a Robust Spell Checker for Arabic Lanaguage.'
+  desc: 'Toword a Robust Spell Checker for Arabic Language.'
 
+- name: 'Text Classification'
+  i18n: 'TxtClass'
+  url: ''
+  img: 'static/img/landing/POSTagger.jpg'
+  desc: 'Text/Tweets classification for Arabic Language.'
+  
 - name: 'Machine Translation System'
   i18n: 'NELexicon'
   url: ''
